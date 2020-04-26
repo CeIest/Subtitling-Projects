@@ -5,10 +5,17 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
 
 [Aegisub Project Garbage]
-Active Line: 3
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.625000
+Scroll Position: 36
+Active Line: 40
+Video Position: 9148
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -19,8 +26,8 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:14.80,0:00:18.30,Default,,0,0,0,,Smile when you're sleeping
 Dialogue: 0,0:00:18.30,0:00:21.00,Default,,0,0,0,,Wonder who you're dreaming of
 Dialogue: 0,0:00:21.00,0:00:24.80,Default,,0,0,0,,Oh, cause I could just see you with wine on your t-shirt
-Dialogue: 0,0:00:24.80,0:00:27.38,Default,,0,0,0,,And somebody else on your arm
-Dialogue: 0,0:00:28.40,0:00:31.65,Default,,0,0,0,,Can't control this feeling
+Dialogue: 0,0:00:24.80,0:00:27.38,Default,,0,0,0,, And somebody else on your arm
+Dialogue: 0,0:00:28.40,0:00:30.80,Default,,0,0,0,,Can't control this feeling
 Dialogue: 0,0:00:31.65,0:00:34.08,Default,,0,0,0,,Wonder who you're dreaming of
 Dialogue: 0,0:00:34.50,0:00:37.80,Default,,0,0,0,,After all of these nights laying right by your side
 Dialogue: 0,0:00:37.80,0:00:40.50,Default,,0,0,0,,How could my brain make me feel so far?
@@ -32,14 +39,14 @@ Dialogue: 0,0:00:50.65,0:00:52.54,Default,,0,0,0,,Maybe its real,
 Dialogue: 0,0:00:52.54,0:00:55.85,Default,,0,0,0,,or maybe I'm just...
 Dialogue: 0,0:00:55.85,0:00:56.95,Default,,0,0,0,,Paranoid
 Dialogue: 0,0:00:59.20,0:01:00.16,Default,,0,0,0,,Paranoid
-Dialogue: 0,0:01:05.85,0:01:07.00,Default,,0,0,0,,Maybe I'm just-
-Dialogue: 0,0:01:09.21,0:01:10.28,Default,,0,0,0,,Paranoid
+Dialogue: 0,0:01:05.85,0:01:06.92,Default,,0,0,0,,Maybe I'm just-
+Dialogue: 0,0:01:09.15,0:01:10.28,Default,,0,0,0,,Paranoid
 Dialogue: 0,0:01:12.53,0:01:13.52,Default,,0,0,0,,Paranoid
 Dialogue: 0,0:01:21.68,0:01:25.05,Default,,0,0,0,,Never felt so naked
 Dialogue: 0,0:01:25.05,0:01:27.76,Default,,0,0,0,,Lookin' at you naked
 Dialogue: 0,0:01:27.76,0:01:30.20,Default,,0,0,0,,Got your hands down the back of my soul
 Dialogue: 0,0:01:30.20,0:01:34.10,Default,,0,0,0,,And the more that I show you, the more I'm afraid
-Dialogue: 0,0:01:34.66,0:01:38.02,Default,,0,0,0,,That you're going to wake up
+Dialogue: 0,0:01:34.96,0:01:38.02,Default,,0,0,0,,That you're going to wake up
 Dialogue: 0,0:01:38.02,0:01:40.92,Default,,0,0,0,,And realize that I'm not the one
 Dialogue: 0,0:01:40.92,0:01:42.80,Default,,0,0,0,,That you thought I was
 Dialogue: 0,0:01:42.80,0:01:45.05,Default,,0,0,0,,That I thought I was
@@ -48,17 +55,17 @@ Dialogue: 0,0:01:47.46,0:01:50.86,Default,,0,0,0,,Maybe it's a case of paranoia
 Dialogue: 0,0:01:50.86,0:01:54.20,Default,,0,0,0,,Nervous that I'll never really know ya
 Dialogue: 0,0:01:54.20,0:01:56.00,Default,,0,0,0,,What do I feel?
 Dialogue: 0,0:01:56.00,0:01:57.45,Default,,0,0,0,,Who do I trust?
-Dialogue: 0,0:01:57.45,0:01:59.34,Default,,0,0,0,,Maybe its real,
-Dialogue: 0,0:01:59.34,0:02:00.90,Default,,0,0,0,,or maybe I'm just...
+Dialogue: 0,0:01:57.45,0:01:59.23,Default,,0,0,0,,Maybe its real,
+Dialogue: 0,0:01:59.23,0:02:00.90,Default,,0,0,0,,Maybe I'm just...
 Dialogue: 0,0:02:02.53,0:02:03.58,Default,,0,0,0,,Paranoid
 Dialogue: 0,0:02:05.86,0:02:06.80,Default,,0,0,0,,Paranoid
-Dialogue: 0,0:02:12.60,0:02:13.56,Default,,0,0,0,,Maybe I'm just
+Dialogue: 0,0:02:12.60,0:02:13.56,Default,,0,0,0,,Maybe I'm just-
 Dialogue: 0,0:02:15.86,0:02:16.76,Default,,0,0,0,,Paranoid
 Dialogue: 0,0:02:19.20,0:02:20.26,Default,,0,0,0,,Paranoid
 Dialogue: 0,0:02:29.15,0:02:30.40,Default,,0,0,0,,Paranoid
 Dialogue: 0,0:02:32.45,0:02:33.61,Default,,0,0,0,,Paranoid
-Dialogue: 0,0:02:36.43,0:02:38.00,Default,,0,0,0,,mm...
+Dialogue: 0,0:02:36.43,0:02:38.00,Default,,0,0,0,,Hmm...
 Dialogue: 0,0:02:39.00,0:02:40.86,Default,,0,0,0,,I wish I wasn't
 Dialogue: 0,0:02:42.49,0:02:43.70,Default,,0,0,0,,Paranoid
-Dialogue: 0,0:02:45.84,0:02:49.29,Default,,0,0,0,,mm...
+Dialogue: 0,0:02:45.84,0:02:49.29,Default,,0,0,0,,Hmm...
 Dialogue: 0,0:02:52.50,0:02:59.50,Default,,0,0,0,,{\i1}Maybe I'm just...{\i}
