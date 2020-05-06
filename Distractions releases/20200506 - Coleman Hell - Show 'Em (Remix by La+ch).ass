@@ -1,0 +1,96 @@
+[Script Info]
+; https://www.youtube.com/watch?v=oMLa6P9Nzv8
+; Coleman Hell - Show 'Em (Remix by La+ch) / Distraction release
+; Subtitler: Celest
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Active Line: 5
+Video Position: 407
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.86,0:00:04.90,Default,,0,0,0,,Show 'em what it looks like
+Dialogue: 0,0:00:05.79,0:00:06.04,Default,,0,0,0,,No
+Dialogue: 0,0:00:06.04,0:00:06.30,Default,,0,0,0,,No no
+Dialogue: 0,0:00:06.30,0:00:06.53,Default,,0,0,0,,No no no
+Dialogue: 0,0:00:06.53,0:00:06.78,Default,,0,0,0,,No no no no
+Dialogue: 0,0:00:06.78,0:00:08.63,Default,,0,0,0,,Caught me on a good night
+Dialogue: 0,0:00:08.63,0:00:10.09,Default,,0,0,0,,I don't need no filter
+Dialogue: 0,0:00:10.09,0:00:12.46,Default,,0,0,0,,feel like I just found the good light
+Dialogue: 0,0:00:12.46,0:00:13.63,Default,,0,0,0,,We've been going off
+Dialogue: 0,0:00:13.63,0:00:16.16,Default,,0,0,0,,like we don't even need a green light
+Dialogue: 0,0:00:16.16,0:00:17.85,Default,,0,0,0,,Stepping on the scene like
+Dialogue: 0,0:00:17.85,0:00:20.00,Default,,0,0,0,,Shit you never seen like
+Dialogue: 0,0:00:20.00,0:00:21.85,Default,,0,0,0,,We don't even need likes
+Dialogue: 0,0:00:21.85,0:00:22.28,Default,,0,0,0,,Ay
+Dialogue: 0,0:00:22.28,0:00:22.79,Default,,0,0,0,,Ay ay
+Dialogue: 0,0:00:22.79,0:00:23.13,Default,,0,0,0,,Oh!
+Dialogue: 0,0:00:23.16,0:00:24.60,Default,,0,0,0,,Somebody give me some flattery
+Dialogue: 0,0:00:24.60,0:00:25.31,Default,,0,0,0,,I'm looking pretty
+Dialogue: 0,0:00:25.31,0:00:26.69,Default,,0,0,0,,like Timothee Chalamet
+Dialogue: 0,0:00:26.52,0:00:27.00,Default,,0,0,0,,{\i1\an8}Oh!{\i0}
+Dialogue: 0,0:00:26.69,0:00:28.35,Default,,0,0,0,,Shit is just simple Anatomy
+Dialogue: 0,0:00:28.35,0:00:30.38,Default,,0,0,0,,I got a pic you should stick in a gallery
+Dialogue: 0,0:00:32.86,0:00:34.90,Default,,0,0,0,,Show 'em what it looks like
+Dialogue: 0,0:00:35.79,0:00:36.04,Default,,0,0,0,,No
+Dialogue: 0,0:00:36.04,0:00:36.30,Default,,0,0,0,,No no
+Dialogue: 0,0:00:36.30,0:00:36.53,Default,,0,0,0,,No no no
+Dialogue: 0,0:00:36.53,0:00:36.78,Default,,0,0,0,,No no no no
+Dialogue: 0,0:00:36.78,0:00:38.63,Default,,0,0,0,,Caught me on a good night
+Dialogue: 0,0:00:38.63,0:00:40.09,Default,,0,0,0,,I don't need no filter
+Dialogue: 0,0:00:40.09,0:00:42.46,Default,,0,0,0,,feel like I just found the good light
+Dialogue: 0,0:00:42.46,0:00:43.63,Default,,0,0,0,,We've been going off
+Dialogue: 0,0:00:43.63,0:00:46.16,Default,,0,0,0,,like we don't even need a green light
+Dialogue: 0,0:00:46.16,0:00:47.85,Default,,0,0,0,,Stepping on the scene like
+Dialogue: 0,0:00:47.85,0:00:50.00,Default,,0,0,0,,Shit you never seen like
+Dialogue: 0,0:00:50.00,0:00:51.85,Default,,0,0,0,,We don't even need likes
+Dialogue: 0,0:00:51.85,0:00:52.28,Default,,0,0,0,,Ay
+Dialogue: 0,0:00:52.28,0:00:52.79,Default,,0,0,0,,Ay ay
+Dialogue: 0,0:00:52.79,0:00:53.44,Default,,0,0,0,,Get on the 'gram
+Dialogue: 0,0:00:53.44,0:00:54.64,Default,,0,0,0,,and that shit is amazing
+Dialogue: 0,0:00:54.64,0:00:55.40,Default,,0,0,0,,Give 'em a Grammy
+Dialogue: 0,0:00:55.40,0:00:56.60,Default,,0,0,0,,they're singing my praises
+Dialogue: 0,0:00:56.55,0:00:56.99,Default,,0,0,0,,{\i1\an8}Oh!{\i0}
+Dialogue: 0,0:00:56.99,0:00:58.17,Default,,0,0,0,,Look at these faces
+Dialogue: 0,0:00:58.17,0:00:59.35,Default,,0,0,0,,You're beautiful too baby
+Dialogue: 0,0:00:59.35,0:01:00.81,Default,,0,0,0,,don't let 'em change ya
+Dialogue: 0,0:01:02.21,0:01:04.98,Default,,0,0,0,,Oh, just show 'em what it looks like
+Dialogue: 0,0:01:05.78,0:01:06.07,Default,,0,0,0,,No
+Dialogue: 0,0:01:06.07,0:01:06.36,Default,,0,0,0,,No no
+Dialogue: 0,0:01:06.36,0:01:06.57,Default,,0,0,0,,No
+Dialogue: 0,0:01:06.57,0:01:06.83,Default,,0,0,0,,No no
+Dialogue: 0,0:01:06.83,0:01:07.04,Default,,0,0,0,,No
+Dialogue: 0,0:01:07.04,0:01:07.25,Default,,0,0,0,,No no
+Dialogue: 0,0:01:07.25,0:01:07.46,Default,,0,0,0,,No
+Dialogue: 0,0:01:07.46,0:01:07.67,Default,,0,0,0,,No no
+Dialogue: 0,0:01:07.67,0:01:07.88,Default,,0,0,0,,{\i1}No{\i0}
+Dialogue: 0,0:01:07.88,0:01:08.09,Default,,0,0,0,,{\i1}No no{\i0}
+Dialogue: 0,0:01:08.09,0:01:08.67,Default,,0,0,0,,{\i1}No no no...{\i0}
+Dialogue: 0,0:01:08.67,0:01:10.52,Default,,0,0,0,,Caught me on a good night
+Dialogue: 0,0:01:10.52,0:01:11.88,Default,,0,0,0,,I don't need no filter
+Dialogue: 0,0:01:11.88,0:01:14.35,Default,,0,0,0,,feel like I just found the good light
+Dialogue: 0,0:01:14.35,0:01:15.52,Default,,0,0,0,,We've been going off
+Dialogue: 0,0:01:15.52,0:01:18.05,Default,,0,0,0,,like we don't even need a green light
+Dialogue: 0,0:01:18.05,0:01:19.74,Default,,0,0,0,,Stepping on the scene like
+Dialogue: 0,0:01:19.74,0:01:21.89,Default,,0,0,0,,Shit you never seen like
+Dialogue: 0,0:01:21.89,0:01:23.74,Default,,0,0,0,,We don't even need likes
+Dialogue: 0,0:01:23.74,0:01:24.17,Default,,0,0,0,,Ay
+Dialogue: 0,0:01:24.17,0:01:24.68,Default,,0,0,0,,Ay ay
+Dialogue: 0,0:01:24.68,0:01:25.02,Default,,0,0,0,,Oh!
+Dialogue: 0,0:01:27.23,0:01:29.40,Default,,0,0,0,,Show 'em what it looks like
+Dialogue: 0,0:01:34.72,0:01:36.89,Default,,0,0,0,,Show 'em what it looks like
