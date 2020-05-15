@@ -1,0 +1,74 @@
+[Script Info]
+; https://www.youtube.com/watch?v=i0B2FHoRy20
+; EQRIC & Bottle Flip - This Love / Distraction release
+; Subtitler: Celest
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 37
+Active Line: 46
+Video Position: 4798
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,35,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.44,0:00:05.66,Default,,0,0,0,,This love has taken its toll on me
+Dialogue: 0,0:00:05.66,0:00:09.41,Default,,0,0,0,,She said goodbye too many times before
+Dialogue: 0,0:00:09.41,0:00:13.48,Default,,0,0,0,,And her heart is breaking in front of me
+Dialogue: 0,0:00:13.48,0:00:15.18,Default,,0,0,0,,I have no choice
+Dialogue: 0,0:00:15.18,0:00:17.66,Default,,0,0,0,,'Cause I won't say goodbye anymore
+Dialogue: 0,0:00:17.66,0:00:20.00,Default,,0,0,0,,I was so high, I did not recognize
+Dialogue: 0,0:00:20.00,0:00:22.08,Default,,0,0,0,,The fire burning in her eyes
+Dialogue: 0,0:00:22.08,0:00:24.05,Default,,0,0,0,,The chaos that controlled my mind
+Dialogue: 0,0:00:25.20,0:00:27.88,Default,,0,0,0,,Whispered goodbye as she got on a plane
+Dialogue: 0,0:00:27.88,0:00:29.60,Default,,0,0,0,,Never to return again
+Dialogue: 0,0:00:29.60,0:00:31.51,Default,,0,0,0,,But always in my heart
+Dialogue: 0,0:00:33.15,0:00:36.37,Default,,0,0,0,,This love has taken its toll on me
+Dialogue: 0,0:00:36.37,0:00:40.12,Default,,0,0,0,,She said goodbye too many times before
+Dialogue: 0,0:00:40.12,0:00:44.19,Default,,0,0,0,,And her heart is breaking in front of me
+Dialogue: 0,0:00:44.19,0:00:45.89,Default,,0,0,0,,I have no choice
+Dialogue: 0,0:00:45.89,0:00:48.37,Default,,0,0,0,,'Cause I won't say goodbye anymore
+Dialogue: 0,0:00:53.55,0:00:56.21,Default,,0,0,0,,'Cause I won't say goodbye anymore
+Dialogue: 0,0:01:01.24,0:01:03.90,Default,,0,0,0,,'Cause I won't say goodbye anymore
+Dialogue: 0,0:01:05.54,0:01:08.18,Default,,0,0,0,,I tried my best to feed her appetite
+Dialogue: 0,0:01:08.18,0:01:10.10,Default,,0,0,0,,Keep her coming every night
+Dialogue: 0,0:01:10.10,0:01:12.20,Default,,0,0,0,,Hard to keep her satisfied
+Dialogue: 0,0:01:13.13,0:01:15.64,Default,,0,0,0,,Keet playing love like it was just a game
+Dialogue: 0,0:01:15.64,0:01:17.78,Default,,0,0,0,,Pretending to feel the same
+Dialogue: 0,0:01:17.78,0:01:19.97,Default,,0,0,0,,Turn around and leave again
+Dialogue: 0,0:01:21.16,0:01:24.38,Default,,0,0,0,,This love has taken its toll on me
+Dialogue: 0,0:01:24.38,0:01:28.13,Default,,0,0,0,,She said goodbye too many times before
+Dialogue: 0,0:01:28.13,0:01:32.20,Default,,0,0,0,,And her heart is breaking in front of me
+Dialogue: 0,0:01:32.20,0:01:33.90,Default,,0,0,0,,I have no choice
+Dialogue: 0,0:01:33.90,0:01:36.38,Default,,0,0,0,,'Cause I won't say goodbye anymore
+Dialogue: 0,0:01:41.56,0:01:44.22,Default,,0,0,0,,'Cause I won't say goodbye anymore
+Dialogue: 0,0:01:49.25,0:01:51.91,Default,,0,0,0,,'Cause I won't say goodbye anymore
+Dialogue: 0,0:01:53.30,0:01:55.40,Default,,0,0,0,,I'll fix these broken things
+Dialogue: 0,0:01:55.40,0:01:57.28,Default,,0,0,0,,Repair your broken wings
+Dialogue: 0,0:01:57.28,0:02:00.24,Default,,0,0,0,,And make sure everything's alright
+Dialogue: 0,0:02:00.24,0:02:00.52,Default,,0,0,0,,Oh
+Dialogue: 0,0:02:00.52,0:02:01.15,Default,,0,0,0,,Oh oh
+Dialogue: 0,0:02:01.15,0:02:02.82,Default,,0,0,0,,My pressure on your hips
+Dialogue: 0,0:02:02.82,0:02:04.45,Default,,0,0,0,,Sinking my fingertips
+Dialogue: 0,0:02:04.45,0:02:06.28,Default,,0,0,0,,Into every inch of you
+Dialogue: 0,0:02:06.28,0:02:08.80,Default,,0,0,0,,'Cause I know that's what you want me to do
+Dialogue: 0,0:02:09.16,0:02:12.38,Default,,0,0,0,,This love has taken its toll on me
+Dialogue: 0,0:02:12.38,0:02:16.13,Default,,0,0,0,,She said goodbye too many times before
+Dialogue: 0,0:02:16.13,0:02:20.20,Default,,0,0,0,,And her heart is breaking in front of me
+Dialogue: 0,0:02:20.20,0:02:21.90,Default,,0,0,0,,I have no choice
+Dialogue: 0,0:02:21.90,0:02:24.38,Default,,0,0,0,,'Cause I won't say goodbye anymore
+Dialogue: 0,0:02:29.56,0:02:32.22,Default,,0,0,0,,'Cause I won't say goodbye anymore
+Dialogue: 0,0:02:37.25,0:02:39.91,Default,,0,0,0,,'Cause I won't say goodbye anymore.
