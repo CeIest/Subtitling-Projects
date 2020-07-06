@@ -67,8 +67,8 @@ Dialogue: 0,0:01:17.79,0:01:18.03,Default,,0,0,0,,Ba- ☆ ★ ☆ ★ ☆
 Dialogue: 0,0:01:18.03,0:01:18.27,Default,,0,0,0,,☆ Ba- ★ ☆ ★ ☆
 Dialogue: 0,0:01:18.27,0:01:18.51,Default,,0,0,0,,☆ ★ Ba- ☆ ★ ☆
 Dialogue: 0,0:01:18.51,0:01:18.75,Default,,0,0,0,,☆ ★ ☆ Ba- ★ ☆
-Dialogue: 0,0:01:18.99,0:01:19.21,Default,,0,0,0,,☆ ★ ☆ ★ ☆ Ba- 
 Dialogue: 0,0:01:18.75,0:01:18.99,Default,,0,0,0,,☆ ★ ☆ ★ Ba- ☆
+Dialogue: 0,0:01:18.99,0:01:19.21,Default,,0,0,0,,☆ ★ ☆ ★ ☆ Ba-
 Dialogue: 0,0:01:19.21,0:01:20.57,Default,,0,0,0,,You droppin' that bassline?
 Dialogue: 0,0:01:20.57,0:01:21.08,Default,,0,0,0,,FUUUUUUU↗↗
 Dialogue: 0,0:01:21.08,0:01:21.54,Default,,0,0,0,,Bass!!
@@ -166,5 +166,96 @@ Dialogue: 0,0:03:26.50,0:03:30.50,Default,,0,0,0,,Wait don't hit me! Please! I a
 Dialogue: 0,0:03:30.50,0:03:32.91,Default,,0,0,0,,Shall we dance, this time around?
 Dialogue: 0,0:03:32.91,0:03:34.31,Default,,0,0,0,,If you can't dance,
 Dialogue: 0,0:03:34.31,0:03:36.31,Default,,0,0,0,,Damn, are you heartless?
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,-----------[DROP BEGINNING]-----------
-
+Dialogue: 0,0:03:36.57,0:03:36.81,Default,,0,0,0,,Ba- ☆ ★ ☆ ★ ☆
+Dialogue: 0,0:03:36.81,0:03:37.05,Default,,0,0,0,,☆ Ba- ★ ☆ ★ ☆
+Dialogue: 0,0:03:37.05,0:03:37.29,Default,,0,0,0,,☆ ★ Ba- ☆ ★ ☆
+Dialogue: 0,0:03:37.29,0:03:37.53,Default,,0,0,0,,☆ ★ ☆ Ba- ★ ☆
+Dialogue: 0,0:03:37.53,0:03:37.77,Default,,0,0,0,,☆ ★ ☆ ★ Ba- ☆
+Dialogue: 0,0:03:37.77,0:03:37.99,Default,,0,0,0,,☆ ★ ☆ ★ ☆ Ba-
+Dialogue: 0,0:03:37.99,0:03:39.33,Default,,0,0,0,,You droppin' that bassline?
+Dialogue: 0,0:03:39.33,0:03:39.86,Default,,0,0,0,,FUUUUUUU↗↗
+Dialogue: 0,0:03:39.86,0:03:40.28,Default,,0,0,0,,Bass!!!
+Dialogue: 0,0:03:40.28,0:03:40.63,Default,,0,0,0,,Line ♭ Line ♭ → Line ↗
+Dialogue: 0,0:03:40.63,0:03:40.99,Default,,0,0,0,,Line ♭ Line ♭ → Line ↘
+Dialogue: 0,0:03:41.00,0:03:41.88,Default,,0,0,0,,Line ♭ Line ♭ → Line ↗
+Dialogue: 0,0:03:41.88,0:03:42.41,Default,,0,0,0,,ª Yeah ª ª Yeah ª ª Yeah ª ª Yeah ª
+Dialogue: 0,0:03:42.41,0:03:42.91,Default,,0,0,0,,º Yeah º º Yeah º º Yeah º º Yeah º
+Dialogue: 0,0:03:42.91,0:03:43.41,Default,,0,0,0,,ª Yeah ª ª Yeah ª ª Yeah ª ª Yeah ª
+Dialogue: 0,0:03:43.41,0:03:43.62,Default,,0,0,0,,º Yeah º º Yeah º º Yeah º º Yeah º
+Dialogue: 0,0:03:43.62,0:03:44.00,Default,,0,0,0,,☆ Bass! ☆ L-L
+Dialogue: 0,0:03:44.00,0:03:45.50,Default,,0,0,0,,(Line) (o), (o) (Line)
+Dialogue: 0,0:03:45.50,0:03:45.95,Default,,0,0,0,,(Fuwa ↗ Fuwa ↔ Fuwa ↖Fuwa)
+Dialogue: 0,0:03:45.95,0:03:46.40,Default,,0,0,0,,(Fuwa ↖ Fuwa ↔ Fuwa ↗ Fuwa)
+Dialogue: 0,0:03:46.40,0:03:46.81,Default,,0,0,0,,(Fuwa ↗ Fuwa ↔ Fuwa ↖Fuwa)
+Dialogue: 0,0:03:46.81,0:03:47.25,Default,,0,0,0,,(Fuwa ↖ Fuwa ↔ Fuwa ↗ Fuwa)
+Dialogue: 0,0:03:47.25,0:03:47.78,Default,,0,0,0,,☆ Bass! ☆
+Dialogue: 0,0:03:47.78,0:03:48.25,Default,,0,0,0,,Line @ Line ㅁ Line ㅁ ~!
+Dialogue: 0,0:03:48.25,0:03:48.74,Default,,0,0,0,,Line @ Line @ Line ㅁ ~!
+Dialogue: 0,0:03:48.74,0:03:49.37,Default,,0,0,0,,Line @ Line @ Line @ ~!
+Dialogue: 0,0:03:49.37,0:03:49.91,Default,,0,0,0,,Yeah ★ Yeah ☆ Yeah ☆ Yeah ☆
+Dialogue: 0,0:03:49.91,0:03:50.26,Default,,0,0,0,,Yeah ★ Yeah ★ Yeah ☆ Yeah ☆
+Dialogue: 0,0:03:50.26,0:03:50.78,Default,,0,0,0,,Yeah ★ Yeah ★ Yeah ★ Yeah ☆
+Dialogue: 0,0:03:50.78,0:03:51.05,Default,,0,0,0,,Yeah ★ Yeah ★ Yeah ★ Yeah  ★
+Dialogue: 0,0:03:51.05,0:03:51.65,Default,,0,0,0,,Bass ~!
+Dialogue: 0,0:03:51.65,0:03:53.00,Default,,0,0,0,,L-L Line Line
+Dialogue: 0,0:03:53.00,0:03:53.45,Default,,0,0,0,,(Fuwa ↗ Fuwa ↔ Fuwa ↖Fuwa)
+Dialogue: 0,0:03:53.45,0:03:53.90,Default,,0,0,0,,(Fuwa ↖ Fuwa ↔ Fuwa ↗ Fuwa)
+Dialogue: 0,0:03:53.90,0:03:54.31,Default,,0,0,0,,(Fuwa ↗ Fuwa ↔ Fuwa ↖Fuwa)
+Dialogue: 0,0:03:54.31,0:03:54.75,Default,,0,0,0,,(Fuwa ↖ Fuwa ↔ Fuwa ↗ Fuwa)
+Dialogue: 0,0:03:54.75,0:03:55.28,Default,,0,0,0,,☆ Bass! ☆
+Dialogue: 0,0:03:55.28,0:03:55.75,Default,,0,0,0,,Line @ Line ㅁ Line ㅁ ~!
+Dialogue: 0,0:03:55.75,0:03:56.24,Default,,0,0,0,,Line @ Line @ Line ㅁ ~!
+Dialogue: 0,0:03:56.24,0:03:56.87,Default,,0,0,0,,Line @ Line @ Line @ ~!
+Dialogue: 0,0:03:56.87,0:03:57.41,Default,,0,0,0,,Yeah ★ Yeah ☆ Yeah ☆ Yeah ☆
+Dialogue: 0,0:03:57.41,0:03:57.76,Default,,0,0,0,,Yeah ★ Yeah ★ Yeah ☆ Yeah ☆
+Dialogue: 0,0:03:57.76,0:03:58.28,Default,,0,0,0,,Yeah ★ Yeah ★ Yeah ★ Yeah ☆
+Dialogue: 0,0:03:58.28,0:03:58.55,Default,,0,0,0,,Yeah ★ Yeah ★ Yeah ★ Yeah  ★
+Dialogue: 0,0:03:58.55,0:03:59.15,Default,,0,0,0,,Bass ~!
+Dialogue: 0,0:03:59.15,0:04:00.46,Default,,0,0,0,,L-L Line Line
+Dialogue: 0,0:04:00.46,0:04:00.91,Default,,0,0,0,,(Fuwa ↗ Fuwa ↔ Fuwa ↖Fuwa)
+Dialogue: 0,0:04:00.91,0:04:01.36,Default,,0,0,0,,(Fuwa ↖ Fuwa ↔ Fuwa ↗ Fuwa)
+Dialogue: 0,0:04:01.36,0:04:01.77,Default,,0,0,0,,(Fuwa ↗ Fuwa ↔ Fuwa ↖Fuwa)
+Dialogue: 0,0:04:01.77,0:04:02.21,Default,,0,0,0,,(Fuwa ↖ Fuwa ↔ Fuwa ↗ Fuwa)
+Dialogue: 0,0:04:02.21,0:04:02.74,Default,,0,0,0,,☆ Bass! ☆
+Dialogue: 0,0:04:02.74,0:04:03.21,Default,,0,0,0,,Line @ Line ㅁ Line ㅁ ~!
+Dialogue: 0,0:04:03.21,0:04:03.70,Default,,0,0,0,,Line @ Line @ Line ㅁ ~!
+Dialogue: 0,0:04:03.70,0:04:04.33,Default,,0,0,0,,Line @ Line @ Line @ ~!
+Dialogue: 0,0:04:04.33,0:04:04.87,Default,,0,0,0,,Yeah ★ Yeah ☆ Yeah ☆ Yeah ☆
+Dialogue: 0,0:04:04.87,0:04:05.22,Default,,0,0,0,,Yeah ★ Yeah ★ Yeah ☆ Yeah ☆
+Dialogue: 0,0:04:05.22,0:04:05.74,Default,,0,0,0,,Yeah ★ Yeah ★ Yeah ★ Yeah ☆
+Dialogue: 0,0:04:05.74,0:04:06.01,Default,,0,0,0,,Yeah ★ Yeah ★ Yeah ★ Yeah  ★
+Dialogue: 0,0:04:06.01,0:04:06.61,Default,,0,0,0,,Bass ~!
+Dialogue: 0,0:04:06.61,0:04:07.96,Default,,0,0,0,,L-L Line Line
+Dialogue: 0,0:04:07.96,0:04:08.86,Default,,0,0,0,,Fuwa {\bord2\shad2\1a&HFF&\3a&HFF&\4a&HFF&\t(450,50,\1a&H00&\3a&H00&\4a&H00&)}Fuwa
+Dialogue: 0,0:04:08.86,0:04:09.36,Default,,0,0,0,,Foo↘
+Dialogue: 0,0:04:09.36,0:04:13.37,Default,,0,0,0,,Everyday~ Everynight~ what I require is YOU!
+Dialogue: 0,0:04:13.37,0:04:17.08,Default,,0,0,0,,This never-withering sensation! What people call love!
+Dialogue: 0,0:04:17.08,0:04:20.86,Default,,0,0,0,,If I were to say I'm far or I'm close, I'd have to say I'm far..
+Dialogue: 0,0:04:20.86,0:04:22.74,Default,,0,0,0,,But I come here with the power of the beat!
+Dialogue: 0,0:04:22.74,0:04:24.08,Default,,0,0,0,,Put your hands up high!
+Dialogue: 0,0:04:24.08,0:04:24.82,Default,,0,0,0,,HIGH PUT YOUR HANDS UP
+Dialogue: 0,0:04:24.82,0:04:27.88,Default,,0,0,0,,Tonight, let's party again!
+Dialogue: 0,0:04:27.88,0:04:28.51,Default,,0,0,0,,♬ YAY ♬ ♬ YAY ♬
+Dialogue: 0,0:04:28.51,0:04:31.68,Default,,0,0,0,,I'll drop the bassline anytime!
+Dialogue: 0,0:04:31.68,0:04:35.39,Default,,0,0,0,,To be honest, your eyes are my sole target!
+Dialogue: 0,0:04:35.39,0:04:36.18,Default,,0,0,0,,♬ YAY ♬ ♬ YAY ♬
+Dialogue: 0,0:04:36.18,0:04:40.28,Default,,0,0,0,,This forceful bassline that rejects all rejections!
+Dialogue: 0,0:04:40.29,0:04:41.69,Default,,0,0,0,,Woah ~ woah ~
+Dialogue: 0,0:04:41.69,0:04:43.07,Default,,0,0,0,,Maji manji~
+Dialogue: 0,0:04:43.07,0:04:44.00,Default,,0,0,0,,HEY ~!
+Dialogue: 0,0:04:44.00,0:04:45.40,Default,,0,0,0,,Woah ~ woah ~
+Dialogue: 0,0:04:45.40,0:04:46.42,Default,,0,0,0,,Maji manji~
+Dialogue: 0,0:04:46.42,0:04:47.62,Default,,0,0,0,,Once again !!
+Dialogue: 0,0:04:47.62,0:04:49.02,Default,,0,0,0,,Woah ~ woah ~
+Dialogue: 0,0:04:49.02,0:04:50.36,Default,,0,0,0,,Maji manji~
+Dialogue: 0,0:04:50.36,0:04:50.88,Default,,0,0,0,,Yay~
+Dialogue: 0,0:04:50.88,0:04:55.16,Default,,0,0,0,,I've already told you to drop that phone!!
+Dialogue: 0,0:04:55.16,0:04:58.63,Default,,0,0,0,,To think she rejected me.. she also punched me a lot..
+Dialogue: 0,0:04:58.63,0:04:59.59,Default,,0,0,0,,(that was satisfying..)
+Dialogue: 0,0:04:59.59,0:05:02.68,Default,,0,0,0,,No! That's not what I meant.. But still, TBH, I won't give up.. !
+Dialogue: 0,0:05:02.68,0:05:05.75,Default,,0,0,0,,Hey you~~ yes you, the super cute girl..
+Dialogue: 0,0:05:05.75,0:05:07.20,Default,,0,0,0,,I'm not hitting on you or anything..
+Dialogue: 0,0:05:07.20,0:05:09.85,Default,,0,0,0,,I'm hitting on you, but I'm not hitting on you! *creepy laugh*
+Dialogue: 0,0:05:09.85,0:05:11.20,Default,,0,0,0,,O O F
+Dialogue: 0,0:05:11.20,0:05:13.23,Default,,0,0,0,,Just.. once more..
+Dialogue: 0,0:05:13.23,0:05:14.50,Default,,0,0,0,,{\fad(00,400}*passes out*
