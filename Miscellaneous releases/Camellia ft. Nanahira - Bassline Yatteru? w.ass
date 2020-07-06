@@ -1,0 +1,127 @@
+[Script Info]
+; https://www.youtube.com/watch?v=jgW7w-SCnAs (not published)
+; Camellia ft. Nanahira - Bassline Yatteru? w
+; Translation: ? / Edition: ?, Celest / Timing: Celest
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 89
+Active Line: 96
+Video Position: 6941
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,200,77
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.80,0:00:04.58,Default,,0,0,0,,{\pos(960,1029)\fad(00,400}Hey you, mega-cute girl over there~
+Dialogue: 0,0:00:05.21,0:00:05.23,Default,,0,0,0,,{\clip(1284,648,1564,968)}I'm totally not hitting on you, yo ♂
+Dialogue: 0,0:00:05.23,0:00:05.25,Default,,0,0,0,,{\clip(880,634,1480,970)}I'm totally not hitting on you, yo ♂
+Dialogue: 0,0:00:05.25,0:00:05.26,Default,,0,0,0,,{\clip(614,598,1654,990)}I'm totally not hitting on you, yo ♂
+Dialogue: 0,0:00:05.26,0:00:07.20,Default,,0,0,0,,{\clip(456,608,1766,998)}I'm totally not hitting on you, yo ♂
+Dialogue: 0,0:00:07.20,0:00:09.75,Default,,0,0,0,,I'm hitting on you, but I'm not!
+Dialogue: 0,0:00:09.75,0:00:10.38,Default,,0,0,0,,Gufufu...
+Dialogue: 0,0:00:10.38,0:00:11.32,Default,,0,0,0,,No, wait, don't go!
+Dialogue: 0,0:00:11.33,0:00:12.50,Default,,0,0,0,,I'm sorry..
+Dialogue: 0,0:00:12.50,0:00:15.23,Default,,0,0,0,,Yes... I sincerely apologize for my actions.
+Dialogue: 0,0:00:15.23,0:00:17.17,Default,,0,0,0,,I'll also have it written...
+Dialogue: 0,0:00:17.17,0:00:19.40,Default,,0,0,0,,Hey, wait up!
+Dialogue: 0,0:00:19.40,0:00:21.55,Default,,0,0,0,,You free rn? Perhaps you could..
+Dialogue: 0,0:00:21.55,0:00:23.95,Default,,0,0,0,,-have some tea with big sis by any chance?
+Dialogue: 0,0:00:23.95,0:00:24.58,Default,,0,0,0,,You can't??
+Dialogue: 0,0:00:24.58,0:00:25.50,Default,,0,0,0,,Why?
+Dialogue: 0,0:00:25.50,0:00:28.73,Default,,0,0,0,,You're gonna burn down Oda Nobunaga's castle after this??
+Dialogue: 0,0:00:28.73,0:00:29.33,Default,,0,0,0,,You for real?
+Dialogue: 0,0:00:29.33,0:00:31.60,Default,,0,0,0,,That's, like, fightin' the power, right?
+Dialogue: 0,0:00:31.60,0:00:34.00,Default,,0,0,0,,Anyhow, I'm going to sing my feelings for you, if you don't mind!
+Dialogue: 0,0:00:34.00,0:00:37.18,Default,,0,0,0,,Tonight, this ~PARTY~'s about to get ☞ turnt up ☜
+Dialogue: 0,0:00:37.18,0:00:37.93,Default,,0,0,0,,♬ YAY ♬ ♬ YAY ♬
+Dialogue: 0,0:00:37.93,0:00:40.87,Default,,0,0,0,,I'll drop the bassline anytime!
+Dialogue: 0,0:00:40.87,0:00:44.73,Default,,0,0,0,,TBH, my sole target is those eyes of yours..
+Dialogue: 0,0:00:44.73,0:00:45.49,Default,,0,0,0,,♬ YAY ♬ ♬ YAY ♬
+Dialogue: 0,0:00:45.49,0:00:49.16,Default,,0,0,0,,First things first, Imma aim for your digits, girl
+Dialogue: 0,0:00:49.16,0:00:52.14,Default,,0,0,0,,This party's lit every second
+Dialogue: 0,0:00:52.14,0:00:52.96,Default,,0,0,0,,♬ YAY ♬ ♬ YAY ♬
+Dialogue: 0,0:00:52.96,0:00:55.87,Default,,0,0,0,,Max vibes on this bassline!
+Dialogue: 0,0:00:55.88,0:00:59.70,Default,,0,0,0,,But for real though, there's a limit to what I can do in the moment..
+Dialogue: 0,0:00:59.70,0:01:00.45,Default,,0,0,0,,♬ YAY ♬ ♬ YAY ♬
+Dialogue: 0,0:01:00.45,0:01:04.40,Default,,0,0,0,,For starters, can you drop the phone you're about to call the police with??
+Dialogue: 0,0:01:04.40,0:01:07.68,Default,,0,0,0,,Hey girl, I'm not a bad person~~
+Dialogue: 0,0:01:07.68,0:01:10.70,Default,,0,0,0,,Aren't you a bit distant~? No need to be afraid~~
+Dialogue: 0,0:01:11.20,0:01:12.90,Default,,0,0,0,,Shall we dance together?
+Dialogue: 0,0:01:12.90,0:01:14.70,Default,,0,0,0,,If you can't dance,
+Dialogue: 0,0:01:14.70,0:01:17.79,Default,,0,0,0,,damn, are you that heartless?
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,-----------[DROP BEGINNING]-----------
+Dialogue: 0,0:01:17.79,0:01:18.03,Default,,0,0,0,,Ba- ☆ ★ ☆ ★ ☆
+Dialogue: 0,0:01:18.03,0:01:18.27,Default,,0,0,0,,☆ Ba- ★ ☆ ★ ☆
+Dialogue: 0,0:01:18.27,0:01:18.51,Default,,0,0,0,,☆ ★ Ba- ☆ ★ ☆
+Dialogue: 0,0:01:18.51,0:01:18.75,Default,,0,0,0,,☆ ★ ☆ Ba- ★ ☆
+Dialogue: 0,0:01:18.99,0:01:19.21,Default,,0,0,0,,☆ ★ ☆ ★ ☆ Ba- 
+Dialogue: 0,0:01:18.75,0:01:18.99,Default,,0,0,0,,☆ ★ ☆ ★ Ba- ☆
+Dialogue: 0,0:01:19.21,0:01:20.57,Default,,0,0,0,,You droppin' that bassline?
+Dialogue: 0,0:01:20.57,0:01:21.08,Default,,0,0,0,,FUUUUUUU↗↗
+Dialogue: 0,0:01:21.08,0:01:21.54,Default,,0,0,0,,Bass!!
+Dialogue: 0,0:01:21.54,0:01:21.85,Default,,0,0,0,,Line ♭ Line ♭ → Line ↗
+Dialogue: 0,0:01:21.85,0:01:22.25,Default,,0,0,0,,Line ♭ Line ♭ → Line ↘
+Dialogue: 0,0:01:22.26,0:01:22.90,Default,,0,0,0,,Line ♭ Line ♭ → Line ↗
+Dialogue: 0,0:01:22.90,0:01:24.76,Default,,0,0,0,,Yeah ~ Yeah ~ Yeah ~! Yeah ~!
+Dialogue: 0,0:01:24.76,0:01:25.35,Default,,0,0,0,,Bass! L-L
+Dialogue: 0,0:01:25.35,0:01:26.64,Default,,0,0,0,,(Line) (o), (o) (Line)
+Dialogue: 0,0:01:26.64,0:01:27.08,Default,,0,0,0,,(Fuwa ↗ Fuwa ↔ Fuwa ↖Fuwa)
+Dialogue: 0,0:01:27.08,0:01:27.52,Default,,0,0,0,,(Fuwa ↖ Fuwa ↔ Fuwa ↗ Fuwa)
+Dialogue: 0,0:01:27.52,0:01:27.96,Default,,0,0,0,,(Fuwa ↗ Fuwa ↔ Fuwa ↖Fuwa)
+Dialogue: 0,0:01:27.96,0:01:28.43,Default,,0,0,0,,(Fuwa ↖ Fuwa ↔ Fuwa ↗ Fuwa)
+Dialogue: 0,0:01:28.43,0:01:28.95,Default,,0,0,0,,☞ Bass ↗
+Dialogue: 0,0:01:28.95,0:01:29.53,Default,,0,0,0,,/ ~ / Line / ~ / line / ~ / line / ~ /
+Dialogue: 0,0:01:29.53,0:01:30.01,Default,,0,0,0,,\ ~ \ Line \ ~ \ line \ ~ \ line \ ~ \
+Dialogue: 0,0:01:30.01,0:01:30.63,Default,,0,0,0,,/ ~ / Line / ~ / line / ~ / line / ~ /
+Dialogue: 0,0:01:30.63,0:01:31.13,Default,,0,0,0,,ª Yeah ª ª Yeah ª ª Yeah ª ª Yeah ª
+Dialogue: 0,0:01:31.13,0:01:31.63,Default,,0,0,0,,º Yeah º º Yeah º º Yeah º º Yeah º 
+Dialogue: 0,0:01:31.63,0:01:32.13,Default,,0,0,0,,ª Yeah ª ª Yeah ª ª Yeah ª ª Yeah ª
+Dialogue: 0,0:01:32.13,0:01:32.33,Default,,0,0,0,,º Yeah º º Yeah º º Yeah º º Yeah º 
+Dialogue: 0,0:01:32.33,0:01:32.81,Default,,0,0,0,,Bass ~
+Dialogue: 0,0:01:32.81,0:01:34.21,Default,,0,0,0,,L-L Line Line
+Dialogue: 0,0:01:34.21,0:01:34.65,Default,,0,0,0,,(Fuwa ↗ Fuwa ↔ Fuwa ↖Fuwa)
+Dialogue: 0,0:01:34.65,0:01:35.09,Default,,0,0,0,,(Fuwa ↖ Fuwa ↔ Fuwa ↗ Fuwa)
+Dialogue: 0,0:01:35.09,0:01:35.53,Default,,0,0,0,,(Fuwa ↗ Fuwa ↔ Fuwa ↖Fuwa)
+Dialogue: 0,0:01:35.53,0:01:36.00,Default,,0,0,0,,(Fuwa ↖ Fuwa ↔ Fuwa ↗ Fuwa)
+Dialogue: 0,0:01:36.00,0:01:36.52,Default,,0,0,0,,☞ Bass ↗
+Dialogue: 0,0:01:36.52,0:01:37.10,Default,,0,0,0,,/ ~ / Line / ~ / line / ~ / line / ~ /
+Dialogue: 0,0:01:37.10,0:01:37.58,Default,,0,0,0,,\ ~ \ Line \ ~ \ line \ ~ \ line \ ~ \
+Dialogue: 0,0:01:37.58,0:01:38.20,Default,,0,0,0,,/ ~ / Line / ~ / line / ~ / line / ~ /
+Dialogue: 0,0:01:38.20,0:01:38.70,Default,,0,0,0,,ª Yeah ª ª Yeah ª ª Yeah ª ª Yeah ª
+Dialogue: 0,0:01:38.70,0:01:39.20,Default,,0,0,0,,º Yeah º º Yeah º º Yeah º º Yeah º
+Dialogue: 0,0:01:39.20,0:01:39.70,Default,,0,0,0,,ª Yeah ª ª Yeah ª ª Yeah ª ª Yeah ª
+Dialogue: 0,0:01:39.70,0:01:39.90,Default,,0,0,0,,º Yeah º º Yeah º º Yeah º º Yeah º
+Dialogue: 0,0:01:39.90,0:01:40.38,Default,,0,0,0,,Bass ~
+Dialogue: 0,0:01:40.38,0:01:41.78,Default,,0,0,0,,L-L Line Line
+Dialogue: 0,0:01:41.78,0:01:42.22,Default,,0,0,0,,(Fuwa ↗ Fuwa ↔ Fuwa ↖Fuwa)
+Dialogue: 0,0:01:42.22,0:01:42.66,Default,,0,0,0,,(Fuwa ↖ Fuwa ↔ Fuwa ↗ Fuwa)
+Dialogue: 0,0:01:42.66,0:01:43.10,Default,,0,0,0,,(Fuwa ↗ Fuwa ↔ Fuwa ↖Fuwa)
+Dialogue: 0,0:01:43.10,0:01:43.57,Default,,0,0,0,,(Fuwa ↖ Fuwa ↔ Fuwa ↗ Fuwa)
+Dialogue: 0,0:01:43.57,0:01:44.09,Default,,0,0,0,,☞ Bass ↗
+Dialogue: 0,0:01:44.09,0:01:44.56,Default,,0,0,0,,/ ~ / Line / ~ / line / ~ / line / ~ /
+Dialogue: 0,0:01:44.56,0:01:45.04,Default,,0,0,0,,\ ~ \ Line \ ~ \ line \ ~ \ line \ ~ \
+Dialogue: 0,0:01:45.04,0:01:45.65,Default,,0,0,0,,/ ~ / Line / ~ / line / ~ / line / ~ /
+Dialogue: 0,0:01:45.65,0:01:46.18,Default,,0,0,0,,ª Yeah ª ª Yeah ª ª Yeah ª ª Yeah ª
+Dialogue: 0,0:01:46.18,0:01:46.67,Default,,0,0,0,,º Yeah º º Yeah º º Yeah º º Yeah º
+Dialogue: 0,0:01:46.67,0:01:47.05,Default,,0,0,0,,ª Yeah ª ª Yeah ª ª Yeah ª ª Yeah ª
+Dialogue: 0,0:01:47.05,0:01:47.36,Default,,0,0,0,,º Yeah º º Yeah º º Yeah º º Yeah º
+Dialogue: 0,0:01:47.36,0:01:47.95,Default,,0,0,0,,Bass ~
+Dialogue: 0,0:01:47.95,0:01:49.15,Default,,0,0,0,,L-L Line Line
+Dialogue: 0,0:01:49.15,0:01:49.70,Default,,0,0,0,,(Fuwa ↗ Fuwa ↔ Fuwa ↖Fuwa)
+Dialogue: 0,0:01:49.70,0:01:50.11,Default,,0,0,0,,(Fuwa ↖ Fuwa ↔ Fuwa ↗ Fuwa)
+Dialogue: 0,0:01:50.11,0:01:50.68,Default,,0,0,0,,Foo↘
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,-----------[DROP END]-----------
+
