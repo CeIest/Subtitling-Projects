@@ -40,7 +40,7 @@ Dialogue: 0,0:01:22.45,0:01:23.92,Default,Asuna,0,0,0,,Qu’est-ce que…
 Dialogue: 0,0:01:23.92,0:01:25.58,Default,Asuna,0,0,0,,Ce parfum de roses ?
 Dialogue: 0,0:01:17.68,0:01:19.95,Sign,,0,0,0,,{\fs111.628\pos(957.225,710.233)\blur\fad(00,900)\b0}「{\b1}Je suis désolé{\b0}」
 Dialogue: 0,0:00:59.82,0:01:00.52,Sign,,0,0,0,,{\fs111.628\pos(957.225,710.233)\blur\b0\c&HF9FAFA&\1a&H5C&}「{\b1}Je n’ai plus la force de me relever{\b0}」
-Dialogue: 0,0:01:00.36,0:01:02.22,Sign,,0,0,0,,{\fs111.628\pos(957.225,710.233)\blur\b0\fad(400,00)\c&HF9FAFA&\1a&H5C&}「{\b1}Je n’ai plus la force de me relever{\b0}」
+Dialogue: 0,0:01:00.36,0:01:02.26,Sign,,0,0,0,,{\fs111.628\pos(957.225,710.233)\blur\b0\fad(400,00)\c&HF9FAFA&\1a&H5C&}「{\b1}Je n’ai plus la force de me relever{\b0}」
 Dialogue: 0,0:01:07.08,0:01:07.75,Sign,,0,0,0,,{\fs111.628\pos(957.225,710.233)\blur\b0\c&HB59F98&\1a&H51&}「{\b1}Je n’ai plus la force de me battre{\b0}」
 Dialogue: 0,0:01:07.75,0:01:09.52,Sign,,0,0,0,,{\fs111.628\pos(957.225,710.233)\blur\b0\1a&H51&\c&HF9FAFA&}「{\b1}Je n’ai plus la force de me battre{\b0}」
 Dialogue: 0,0:01:27.75,0:01:35.52,Sign,,0,0,0,,{\fnAdobe Garamond Pro Bold\b1\fs58.605\blur\pos(744.577,487.137)}Prochain\Népisode :
