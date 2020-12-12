@@ -10,4 +10,4 @@ You can find, in this repository, all of the public subtitle files I worked on.
 
 • Miscellaneous: As its title implies, here belong subtitle files I worked on, for a variety of groups or for myself.
 
-• Pasta: PastaPastaPastaPastaPastaPasta
+• Pasta: el famoso anime cartel
