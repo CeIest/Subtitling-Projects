@@ -13,10 +13,10 @@ PlayResY: 1080
 Last Style Storage: Default
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 919
-Active Line: 933
-Video Position: 3786
+Video Zoom Percent: 0.375000
+Scroll Position: 954
+Active Line: 956
+Video Position: 3024
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -538,9 +538,9 @@ Dialogue: 0,0:00:34.71,0:00:34.75,SP - FD wonderful wings,,0,0,0,,{=24}{\fscx95.
 Dialogue: 0,0:00:34.75,0:00:34.78,SP - FD wonderful wings,,0,0,0,,{=24}{\fscx95.6\fscy95.6\frz0\alpha&H00&\pos(959.97,35.28)\fnCentury Schoolbook\fs50\blur0.29\c&H131315&}I mean, we have these\Nwonderful wings.
 Dialogue: 0,0:00:34.78,0:00:34.81,SP - FD wonderful wings,,0,0,0,,{=24}{\fscx95.52\fscy95.52\frz0.04\alpha&H00&\pos(959.65,35.71)\fnCentury Schoolbook\fs50\blur0.29\c&H131315&}I mean, we have these\Nwonderful wings.
 Dialogue: 0,0:00:34.81,0:00:34.85,SP - FD wonderful wings,,0,0,0,,{=24}{\fscx95.45\fscy95.45\frz0.05\alpha&H00&\pos(959.58,36.04)\fnCentury Schoolbook\fs50\blur0.29\c&H131315&}I mean, we have these\Nwonderful wings.
-Dialogue: 0,0:00:35.69,0:00:38.13,Signs,,0,0,0,,{\an1\fnCentury Schoolbook\fs70\c&H000000&\blur0.36\pos(170,436.333)\clip(170,366.3,172,436.3)\t(0,175,1,\clip(170,366.3,917.6,436.3))}but, if you do happen to feel
-Dialogue: 0,0:00:35.86,0:00:38.13,Signs,,0,0,0,,{\an1\fnCentury Schoolbook\fs70\c&H000000&\blur0.36\pos(170,630.4)\clip(170,560.4,172,630.4)\t(0,175,1,\clip(170,560.4,706.2,630.4))}any emotion toward
-Dialogue: 0,0:00:36.03,0:00:38.13,Signs,,0,0,0,,{\an1\fnCentury Schoolbook\fs70\c&H000000&\blur0.36\pos(170,832.4)\clip(170,762.4,172,832.4)\t(0,175,1,\clip(170,762.4,975.8,832.4))}my world other than hatred—
+Dialogue: 0,0:00:35.69,0:00:38.13,Signs,,0,0,0,,{\an1\fnCentury Schoolbook\fs60\c&H000000&\blur0.36\pos(170,436.333)\clip(170,366.3,172,436.3)\t(0,175,1,\clip(170,366.3,917.6,436.3))}but, if you do happen to feel
+Dialogue: 0,0:00:35.86,0:00:38.13,Signs,,0,0,0,,{\an1\fnCentury Schoolbook\fs60\c&H000000&\blur0.36\pos(170,630.4)\clip(170,560.4,172,630.4)\t(0,175,1,\clip(170,560.4,706.2,630.4))}any emotion toward
+Dialogue: 0,0:00:36.03,0:00:38.13,Signs,,0,0,0,,{\an1\fnCentury Schoolbook\fs60\c&H000000&\blur0.36\pos(170,832.4)\clip(170,762.4,172,832.4)\t(0,175,1,\clip(170,762.4,975.8,832.4))}my world other than hatred—
 Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,=======[PHANTOM BULLET]=======
 Dialogue: 0,0:00:42.48,0:00:42.51,Signs,,0,0,0,,{=26}{\fscx100\fscy100\frz0\alpha&H00&\pos(389.44,147.64)}\N{この世界でいちばん強くなれたら、} {\fnCentury Schoolbook\fs88\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\b1\bord0.4}So I thought, if I can be
 Dialogue: 0,0:00:42.51,0:00:42.55,Signs,,0,0,0,,{=26}{\fscx100.01\fscy100.01\frz0\alpha&H00&\pos(474.89,147.61)}\N{この世界でいちばん強くなれたら、\3c&H363636&\3a&H83&} {\fnCentury Schoolbook\fs88\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\b1\bord0.4}So I thought, if I can be
@@ -733,8 +733,8 @@ Dialogue: 0,0:00:43.95,0:00:43.98,Signs,,0,0,0,,{=29}{\fscx100\fscy100\frz0\alph
 Dialogue: 0,0:00:43.98,0:00:44.03,Signs,,0,0,0,,{=29}{\fscx100.47\fscy100.47\frz0\alpha&H00&\pos(1266.47,1016.12)}{\fnCentury Schoolbook\fs100\b1}in reality, too.
 Dialogue: 0,0:00:44.03,0:00:44.06,Signs,,0,0,0,,{=29}{\fscx100.47\fscy100.47\frz0\alpha&H00&\pos(1397.137,1016.12)}{\fnCentury Schoolbook\fs100\b1}in reality, too.
 Dialogue: 0,0:00:44.06,0:00:44.09,Signs,,0,0,0,,{=29}{\fscx100.47\fscy100.47\frz0\alpha&H00&\pos(1941.137,1016.12)}{\fnCentury Schoolbook\fs100\b1}in reality, too.
-Dialogue: 0,0:00:45.89,0:00:46.99,Signs,,0,0,0,,{\fnCentury Schoolbook\fs75\pos(1499,867)}You don’t have\Nthe power to end it.
-Dialogue: 0,0:00:47.59,0:00:48.43,Signs,,0,0,0,,{\fnCentury Schoolbook\fs60\pos(960,171.6)}It's Show Time.
+Dialogue: 0,0:00:45.89,0:00:46.99,Signs,,0,0,0,,{\fnCentury Schoolbook\fs75\pos(624.333,917.667)}You don’t have\Nthe power to end it.
+Dialogue: 0,0:00:47.59,0:00:48.43,Signs,,0,0,0,,{\fnCentury Schoolbook\fs55\pos(960,171.6)}It's Show Time.
 Comment: 0,0:00:00.00,0:00:00.06,Signs,,0,0,0,,=======[MOTHER'S ROSARIO]=======
 Dialogue: 0,0:00:58.25,0:00:58.28,Signs,,0,0,0,,{=33}{\fscx100\fscy100\frz0\alpha&H00&\fnCentury Schoolbook\fs60\c&H232625&\1a&H16&\blur5.69\pos(530.84,433.36)}There are some things
 Dialogue: 0,0:00:58.28,0:00:58.31,Signs,,0,0,0,,{=33}{\fscx100\fscy100\frz0\alpha&H00&\fnCentury Schoolbook\fs60\c&H232625&\1a&H16&\blur5.05\pos(529.26,433.34)}There are some things
@@ -838,7 +838,56 @@ Dialogue: 0,0:00:59.81,0:00:59.85,Signs,,0,0,0,,{=32}{\fscx100.29\fscy100.29\frz
 Dialogue: 0,0:00:59.85,0:00:59.88,Signs,,0,0,0,,{=32}{\fscx100.33\fscy100.33\frz0.16\alpha&H00&\fnCentury Schoolbook\fs60\c&H232625&\1a&H16&\blur4.8\pos(747.42,685.66)}you can’t get across without confronting them.
 Dialogue: 0,0:00:59.88,0:00:59.91,Signs,,0,0,0,,{=32}{\fscx100.37\fscy100.37\frz0.19\alpha&H00&\fnCentury Schoolbook\fs60\c&H232625&\1a&H16&\blur5.28\pos(746.07,685.56)}you can’t get across without confronting them.
 Dialogue: 0,0:00:59.91,0:00:59.95,Signs,,0,0,0,,{=32}{\fscx100.41\fscy100.41\frz0.21\alpha&H00&\fnCentury Schoolbook\fs60\c&H232625&\1a&H16&\blur5.78\pos(745.14,685.39)}you can’t get across without confronting them.
-Dialogue: 0,0:01:03.46,0:01:04.66,Signs,,0,0,0,,{\fnCentury Schoolbook\fs60\blur0.4\c&H474747&\fad(250,00)\pos(1444,652.667)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:02.98,0:01:03.01,Signs,,0,0,0,,{=41}{\fscx100\fscy100\frz0\alpha&H00&\fnCentury Schoolbook\fs60\blur0.4\c&H474747&\pos(1444,652.67)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:03.01,0:01:03.05,Signs,,0,0,0,,{=41}{\fscx99.1\fscy99.1\frz0\alpha&H00&\fnCentury Schoolbook\fs60\blur0.4\c&H474747&\pos(1439.68,651.6)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:03.05,0:01:03.08,Signs,,0,0,0,,{=41}{\fscx98.27\fscy98.27\frz0\alpha&H00&\fnCentury Schoolbook\fs60\blur0.39\c&H474747&\pos(1435.61,650.72)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:03.08,0:01:03.11,Signs,,0,0,0,,{=41}{\fscx97.51\fscy97.51\frz0\alpha&H00&\fnCentury Schoolbook\fs60\blur0.39\c&H474747&\pos(1431.93,649.89)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:03.11,0:01:03.15,Signs,,0,0,0,,{=41}{\fscx96.81\fscy96.81\frz0.01\alpha&H00&\fnCentury Schoolbook\fs60\blur0.39\c&H474747&\pos(1428.53,649.01)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:03.15,0:01:03.18,Signs,,0,0,0,,{=41}{\fscx96.17\fscy96.17\frz0\alpha&H00&\fnCentury Schoolbook\fs60\blur0.38\c&H474747&\pos(1425.47,648.34)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:03.18,0:01:03.21,Signs,,0,0,0,,{=41}{\fscx95.6\fscy95.6\frz0\alpha&H00&\fnCentury Schoolbook\fs60\blur0.38\c&H474747&\pos(1422.65,647.75)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:03.21,0:01:03.25,Signs,,0,0,0,,{=41}{\fscx95.07\fscy95.07\frz0\alpha&H00&\fnCentury Schoolbook\fs60\blur0.38\c&H474747&\pos(1420.16,647.14)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:03.25,0:01:03.28,Signs,,0,0,0,,{=41}{\fscx94.61\fscy94.61\frz0\alpha&H00&\fnCentury Schoolbook\fs60\blur0.38\c&H474747&\pos(1417.89,646.58)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:03.28,0:01:03.31,Signs,,0,0,0,,{=41}{\fscx94.19\fscy94.19\frz0.01\alpha&H00&\fnCentury Schoolbook\fs60\blur0.38\c&H474747&\pos(1415.85,646.07)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:03.31,0:01:03.35,Signs,,0,0,0,,{=41}{\fscx93.83\fscy93.83\frz0\alpha&H00&\fnCentury Schoolbook\fs60\blur0.38\c&H474747&\pos(1414.09,645.72)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:03.35,0:01:03.38,Signs,,0,0,0,,{=41}{\fscx93.5\fscy93.5\frz0\alpha&H00&\fnCentury Schoolbook\fs60\blur0.37\c&H474747&\pos(1412.5,645.38)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:03.38,0:01:03.41,Signs,,0,0,0,,{=41}{\fscx93.2\fscy93.2\frz0\alpha&H00&\fnCentury Schoolbook\fs60\blur0.37\c&H474747&\pos(1411.07,644.99)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:03.41,0:01:03.45,Signs,,0,0,0,,{=41}{\fscx92.95\fscy92.95\frz0.01\alpha&H00&\fnCentury Schoolbook\fs60\blur0.37\c&H474747&\pos(1409.84,644.68)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:03.45,0:01:03.48,Signs,,0,0,0,,{=41}{\fscx92.72\fscy92.72\frz0\alpha&H00&\fnCentury Schoolbook\fs60\blur0.37\c&H474747&\pos(1408.74,644.48)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:03.48,0:01:03.51,Signs,,0,0,0,,{=41}{\fscx92.53\fscy92.53\frz0\alpha&H00&\fnCentury Schoolbook\fs60\blur0.37\c&H474747&\pos(1407.78,644.31)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:03.51,0:01:03.55,Signs,,0,0,0,,{=41}{\fscx92.35\fscy92.35\frz0\alpha&H00&\fnCentury Schoolbook\fs60\blur0.37\c&H474747&\pos(1406.94,644.06)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:03.55,0:01:03.58,Signs,,0,0,0,,{=41}{\fscx92.19\fscy92.19\frz0\alpha&H00&\fnCentury Schoolbook\fs60\blur0.37\c&H474747&\pos(1406.19,643.89)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:03.58,0:01:03.61,Signs,,0,0,0,,{=41}{\fscx92.06\fscy92.06\frz0\alpha&H00&\fnCentury Schoolbook\fs60\blur0.37\c&H474747&\pos(1405.56,643.73)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:03.61,0:01:03.65,Signs,,0,0,0,,{=41}{\fscx91.94\fscy91.94\frz0\alpha&H00&\fnCentury Schoolbook\fs60\blur0.37\c&H474747&\pos(1404.94,643.62)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:03.65,0:01:03.68,Signs,,0,0,0,,{=41}{\fscx91.83\fscy91.83\frz0\alpha&H00&\fnCentury Schoolbook\fs60\blur0.37\c&H474747&\pos(1404.41,643.48)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:03.68,0:01:03.71,Signs,,0,0,0,,{=41}{\fscx91.74\fscy91.74\frz0\alpha&H00&\fnCentury Schoolbook\fs60\blur0.37\c&H474747&\pos(1403.98,643.39)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:03.71,0:01:03.75,Signs,,0,0,0,,{=41}{\fscx91.65\fscy91.65\frz0\alpha&H00&\fnCentury Schoolbook\fs60\blur0.37\c&H474747&\pos(1403.55,643.28)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:03.75,0:01:03.78,Signs,,0,0,0,,{=41}{\fscx91.57\fscy91.57\frz0\alpha&H00&\fnCentury Schoolbook\fs60\blur0.37\c&H474747&\pos(1403.15,643.18)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:03.78,0:01:03.81,Signs,,0,0,0,,{=41}{\fscx91.51\fscy91.51\frz0\alpha&H00&\fnCentury Schoolbook\fs60\blur0.37\c&H474747&\pos(1402.85,643.14)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:03.81,0:01:03.85,Signs,,0,0,0,,{=41}{\fscx91.44\fscy91.44\frz0\alpha&H00&\fnCentury Schoolbook\fs60\blur0.37\c&H474747&\pos(1402.54,643.06)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:03.85,0:01:03.88,Signs,,0,0,0,,{=41}{\fscx91.38\fscy91.38\frz0\alpha&H00&\fnCentury Schoolbook\fs60\blur0.37\c&H474747&\pos(1402.24,642.99)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:03.88,0:01:03.91,Signs,,0,0,0,,{=41}{\fscx91.33\fscy91.33\frz0\alpha&H00&\fnCentury Schoolbook\fs60\blur0.37\c&H474747&\pos(1401.99,642.92)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:03.91,0:01:03.95,Signs,,0,0,0,,{=41}{\fscx91.28\fscy91.28\frz0\alpha&H00&\fnCentury Schoolbook\fs60\blur0.37\c&H474747&\pos(1401.75,642.86)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:03.95,0:01:03.98,Signs,,0,0,0,,{=41}{\fscx91.23\fscy91.23\frz0\alpha&H00&\fnCentury Schoolbook\fs60\blur0.36\c&H474747&\pos(1401.52,642.78)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:03.98,0:01:04.01,Signs,,0,0,0,,{=41}{\fscx91.18\fscy91.18\frz0.01\alpha&H00&\fnCentury Schoolbook\fs60\blur0.36\c&H474747&\pos(1401.3,642.71)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:04.01,0:01:04.05,Signs,,0,0,0,,{=41}{\fscx91.14\fscy91.14\frz0\alpha&H00&\fnCentury Schoolbook\fs60\blur0.36\c&H474747&\pos(1401.09,642.67)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:04.05,0:01:04.08,Signs,,0,0,0,,{=41}{\fscx91.1\fscy91.1\frz0\alpha&H00&\fnCentury Schoolbook\fs60\blur0.36\c&H474747&\pos(1400.89,642.63)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:04.08,0:01:04.11,Signs,,0,0,0,,{=41}{\fscx91.06\fscy91.06\frz0\alpha&H00&\fnCentury Schoolbook\fs60\blur0.36\c&H474747&\pos(1400.7,642.6)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:04.11,0:01:04.15,Signs,,0,0,0,,{=41}{\fscx91.02\fscy91.02\frz0\alpha&H00&\fnCentury Schoolbook\fs60\blur0.36\c&H474747&\pos(1400.51,642.57)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:04.15,0:01:04.18,Signs,,0,0,0,,{=41}{\fscx90.98\fscy90.98\frz0.01\alpha&H00&\fnCentury Schoolbook\fs60\blur0.36\c&H474747&\pos(1400.32,642.5)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:04.18,0:01:04.21,Signs,,0,0,0,,{=41}{\fscx90.94\fscy90.94\frz0.01\alpha&H00&\fnCentury Schoolbook\fs60\blur0.36\c&H474747&\pos(1400.12,642.43)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:04.21,0:01:04.25,Signs,,0,0,0,,{=41}{\fscx90.9\fscy90.9\frz0.01\alpha&H00&\fnCentury Schoolbook\fs60\blur0.36\c&H474747&\pos(1399.93,642.39)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:04.25,0:01:04.28,Signs,,0,0,0,,{=41}{\fscx90.86\fscy90.86\frz0.01\alpha&H00&\fnCentury Schoolbook\fs60\blur0.36\c&H474747&\pos(1399.73,642.33)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:04.28,0:01:04.31,Signs,,0,0,0,,{=41}{\fscx90.82\fscy90.82\frz0.01\alpha&H00&\fnCentury Schoolbook\fs60\blur0.36\c&H474747&\pos(1399.54,642.31)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:04.31,0:01:04.35,Signs,,0,0,0,,{=41}{\fscx90.78\fscy90.78\frz0.01\alpha&H00&\fnCentury Schoolbook\fs60\blur0.36\c&H474747&\pos(1399.34,642.26)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:04.35,0:01:04.38,Signs,,0,0,0,,{=41}{\fscx90.74\fscy90.74\frz0.01\alpha&H00&\fnCentury Schoolbook\fs60\blur0.36\c&H474747&\pos(1399.14,642.2)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:04.38,0:01:04.41,Signs,,0,0,0,,{=41}{\fscx90.69\fscy90.69\frz0.01\alpha&H00&\fnCentury Schoolbook\fs60\blur0.36\c&H474747&\pos(1398.92,642.14)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:04.41,0:01:04.45,Signs,,0,0,0,,{=41}{\fscx90.65\fscy90.65\frz0.01\alpha&H00&\fnCentury Schoolbook\fs60\blur0.36\c&H474747&\pos(1398.71,642.07)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:04.45,0:01:04.48,Signs,,0,0,0,,{=41}{\fscx90.6\fscy90.6\frz0.01\alpha&H00&\fnCentury Schoolbook\fs60\blur0.36\c&H474747&\pos(1398.49,642.02)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:04.48,0:01:04.51,Signs,,0,0,0,,{=41}{\fscx90.56\fscy90.56\frz0.01\alpha&H00&\fnCentury Schoolbook\fs60\blur0.36\c&H474747&\pos(1398.28,641.99)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:04.51,0:01:04.55,Signs,,0,0,0,,{=41}{\fscx90.51\fscy90.51\frz0.01\alpha&H00&\fnCentury Schoolbook\fs60\blur0.36\c&H474747&\pos(1398.06,641.92)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:04.55,0:01:04.58,Signs,,0,0,0,,{=41}{\fscx90.46\fscy90.46\frz0.01\alpha&H00&\fnCentury Schoolbook\fs60\blur0.36\c&H474747&\pos(1397.83,641.86)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:04.58,0:01:04.61,Signs,,0,0,0,,{=41}{\fscx90.41\fscy90.41\frz0.02\alpha&H00&\fnCentury Schoolbook\fs60\blur0.36\c&H474747&\pos(1397.58,641.82)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
+Dialogue: 0,0:01:04.61,0:01:04.65,Signs,,0,0,0,,{=41}{\fscx90.36\fscy90.36\frz0.02\alpha&H00&\fnCentury Schoolbook\fs60\blur0.36\c&H474747&\pos(1397.36,641.7)}The name of the attack \Nis « Mother’s Rosario ».\NI’m sure that it will\Nkeep you safe, Asuna.
 Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,=======[CALIBUR]=======
 Dialogue: 0,0:01:08.53,0:01:09.46,Signs,,0,0,0,,{\an1\fnCentury Schoolbook\fs60\blur0.4\pos(1236,600)}Little fairies who have\Naligned yourselves\Nwith my kindred.
 Dialogue: 0,0:01:10.39,0:01:11.33,Signs,,0,0,0,,{\an1\fnCentury Schoolbook\fs60\blur0.4\pos(1236,600)}Please save this land\Nfrom the attack\Nof the frost giants.
@@ -883,7 +932,7 @@ Dialogue: 0,0:01:29.08,0:01:29.11,Signs,,0,0,0,,{=35}{\fscx97.95\fscy97.95\frz0.
 Dialogue: 0,0:01:29.11,0:01:29.15,Signs,,0,0,0,,{=35}{\fscx97.9\fscy97.9\frz0.01\alpha&H00&\an1\fnCentury Schoolbook\fs70\blur0.98\c&HE4E4EC&\pos(1208.02,177.49)}Welcome to\Neternal stasis.
 Dialogue: 0,0:01:29.15,0:01:29.18,Signs,,0,0,0,,{=35}{\fscx97.84\fscy97.84\frz0.01\alpha&H00&\an1\fnCentury Schoolbook\fs70\blur0.98\c&HE4E4EC&\pos(1207.88,177.73)}Welcome to\Neternal stasis.
 Dialogue: 0,0:01:29.18,0:01:29.21,Signs,,0,0,0,,{=35}{\fscx97.77\fscy97.77\frz0.03\alpha&H00&\an1\fnCentury Schoolbook\fs70\blur0.98\c&HE4E4EC&\pos(1207.64,178.05)}Welcome to\Neternal stasis.
-Dialogue: 0,0:01:32.49,0:01:34.56,Signs,,0,0,0,,{\fnCentury Schoolbook\fs65\c&HE9EDE4&\blur0.2\fad(500,530)\move(784,945,734,945,0,2061)}I’ve been waiting for you, Kirito. 
+Dialogue: 0,0:01:32.49,0:01:34.56,Signs,,0,0,0,,{\fnCentury Schoolbook\fs65\c&HE9EDE4&\blur0.2\fad(500,530)\move(784,945,734,945,0,2061)}I’ve been waiting for you, Kirito.
 Dialogue: 0,0:01:37.16,0:01:37.19,Signs,,0,0,0,,{\an1\fnCentury Schoolbook\fs85\c&HFFFFFF&\blur8\pos(44.5,904.23)\clip(m 221 290 l 603 948 867 706 713 298)}This is the true \Npunishment I’ve\Nbeen given.
 Dialogue: 0,0:01:37.19,0:01:37.23,Signs,,0,0,0,,{\an1\fnCentury Schoolbook\fs85\c&HFFFFFF&\blur8\pos(44,904.23)\clip(m 86 370 l 492 1015 867 706 713 298)}This is the true \Npunishment I’ve\Nbeen given.
 Dialogue: 0,0:01:37.23,0:01:37.26,Signs,,0,0,0,,{\an1\fnCentury Schoolbook\fs85\c&HFFFFFF&\blur8\pos(43.5,904.23)\clip(m -24 390 l 356 1058 867 706 713 298)}This is the true \Npunishment I’ve\Nbeen given.
@@ -933,7 +982,7 @@ Dialogue: 0,0:01:38.65,0:01:38.68,Signs,,0,0,0,,{=37}{\fscx100\fscy100\frz0\alph
 Dialogue: 0,0:01:38.68,0:01:38.71,Signs,,0,0,0,,{=37}{\fscx100\fscy100\frz0\alpha&H00&\an1\fnCentury Schoolbook\fs85\c&HFFFFFF&\pos(18.01,904.2)\blur0.6}This is the true \Npunishment I’ve\Nbeen given.
 Dialogue: 0,0:01:38.71,0:01:38.75,Signs,,0,0,0,,{=37}{\fscx100\fscy100\frz0\alpha&H00&\an1\fnCentury Schoolbook\fs85\c&HFFFFFF&\pos(17.47,904.2)\blur0.6}This is the true \Npunishment I’ve\Nbeen given.
 Dialogue: 0,0:01:38.75,0:01:38.79,Signs,,0,0,0,,{=37}{\fscx100\fscy100\frz0\alpha&H00&\an1\fnCentury Schoolbook\fs85\c&HFFFFFF&\pos(16.96,904.19)\blur0.6}This is the true \Npunishment I’ve\Nbeen given.
-Dialogue: 0,0:01:38.79,0:01:40.79,Signs,,0,0,0,,{\an3\fnCentury Schoolbook\fs90\c&HFFFFFF&\move(939,323,912,323,0,1991)\blur6\t(0,1200,\blur0.6)}A father is meant\Nto die protecting\Nhis own children.
+Dialogue: 0,0:01:38.79,0:01:40.79,Signs,,0,0,0,,{\an3\fnCentury Schoolbook\fs90\c&HFFFFFF&\move(939,323,912,323,0,1991)\blur6\t(0,1300,\blur0.6)}A father is meant\Nto die protecting\Nhis own children.
 Dialogue: 0,0:01:40.79,0:01:42.23,Signs,,0,0,0,,{\an1\fnCentury Schoolbook\fs90\c&HFFFFFF&\blur6\t(0,950,\blur0.6)\move(902,808,879,808,0,1431)}Kill all that lies\Nbefore you, while\Nyou yet live.
 Dialogue: 0,0:01:42.73,0:01:44.33,Signs,,0,0,0,,{\frz12.11\move(649.457,955.657,633.457,900.8,3,1569)}{\fnCentury Schoolbook\fs100\blur1}My body will give out\Nwhen my mind does.
 Dialogue: 0,0:01:47.73,0:01:49.13,Signs,,0,0,0,,{\fnCentury Schoolbook\fs55\blur0.5\c&H6B6B6B&\move(1053,873,1053,861,0,1397)\fad(400,300)}Now stand, Kirito.
@@ -987,3 +1036,4 @@ Data: 33,a-mo,e{"uuid"#3A"9e4ec660-5984-4b60-8fad-c796c4d73047"#2C"originalText"
 Data: 35,a-mo,e{"uuid"#3A"89bbf867-35e6-45e6-b8c4-f1b16963c1fc"#2C"originalText"#3A"{\\an1\\fnCentury Schoolbook\\fs70\\blur0.4\\blur6\\t(0#2C400#2C\\blur1)\\c&HE4E4EC&\\pos(1214.4#2C169.6)}Welcome to\\Neternal stasis."}
 Data: 37,a-mo,e{"uuid"#3A"13f4fb0d-9ef7-44cc-97a3-c221c29d3a2a"#2C"originalText"#3A"{\\an1\\fnCentury Schoolbook\\fs85\\c&HFFFFFF&\\pos(45.029#2C908.857)\\blur8\\t(0#2C550#2C\\blur0.6)}This is the true \\Npunishment I#E2#80#99ve\\Nbeen given."}
 Data: 38,a-mo,e{"uuid"#3A"cc158f86-5207-45c1-9cb8-a56f003c3abe"#2C"originalText"#3A"{\\fnCentury Schoolbook\\fs70\\blur0.2\\pos(614#2C354.667)}A mixed\\Nworld."}
+Data: 41,a-mo,e{"uuid"#3A"64e2f2d7-ca2c-4779-a0b6-fbc19c8dab1f"#2C"originalText"#3A"{\\fnCentury Schoolbook\\fs60\\blur0.4\\c&H474747&\\pos(1444#2C652.667)}The name of the attack \\Nis #C2#AB Mother#E2#80#99s Rosario #C2#BB.\\NI#E2#80#99m sure that it will\\Nkeep you safe#2C Asuna."}
