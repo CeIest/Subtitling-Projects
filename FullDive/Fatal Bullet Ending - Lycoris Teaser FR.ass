@@ -21,6 +21,7 @@ Style: story,SAO UI,100,&H00ECEFEC,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,Édition: Celest / Traduction: Raïto / FullDive Team
 Dialogue: 0,0:00:00.05,0:00:04.90,Default,,0,0,0,,Est-ce que ce sont… mes souvenirs ?
 Dialogue: 0,0:00:09.83,0:00:13.70,Default,,0,0,0,,Promets-moi une chose, Medina.
 Dialogue: 0,0:00:14.24,0:00:15.04,Default,,0,0,0,,Oui ?
@@ -37,7 +38,7 @@ Dialogue: 0,0:01:26.06,0:01:32.13,Default,,0,0,0,,Je suis une erreur, alors…
 Dialogue: 0,0:01:35.23,0:01:41.91,Default,,0,0,0,,Je ne suis qu’une idiote. Je…
 Dialogue: 0,0:01:48.73,0:01:55.66,Default,,0,0,0,,Père… Je… N’y a-t-il rien que je puisse faire ?
 Dialogue: 0,0:01:52.06,0:01:57.66,Default,,0,0,0,,{\fad(3000,700)\an4}Traduction :\NRaïto
-Dialogue: 0,0:01:52.06,0:01:57.66,Default,,0,0,0,,{\fad(3000,700)\an6}Montage :\NCelest
+Dialogue: 0,0:01:52.06,0:01:57.66,Default,,0,0,0,,{\fad(3000,700)\an6}Édition :\NCelest
 Dialogue: 0,0:01:52.06,0:01:57.66,Default,,0,0,0,,{\fad(3000,700)\an8}FullDive Team
 Dialogue: 0,0:01:43.68,0:01:48.50,story,,0,0,0,,{\fad(1500,1200)\blur1\pos(982,409)}L'histoire Continue
 Dialogue: 0,0:01:43.68,0:01:48.50,story,,0,0,0,,{\fad(1500,1200)\blur1\pos(952,744)}dans Alicization Lycoris...
