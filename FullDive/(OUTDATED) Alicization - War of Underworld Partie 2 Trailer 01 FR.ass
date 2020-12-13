@@ -30,6 +30,8 @@ Style: credits,Futura ND,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,Note : Fichier à ne pas prendre en compte. Trop d'erreur de TS !
+Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,Édition: Celest / Traduction: ImData / Adaptation: Raïto / FullDive Team
 Dialogue: 0,0:00:07.77,0:00:09.77,Default,Kirito,0,0,0,,{\an8}Alice !!
 Dialogue: 0,0:00:08.55,0:00:10.25,Default,Eugeo,0,0,0,,Je veux devenir épéiste !
 Dialogue: 0,0:00:10.25,0:00:12.25,Default,Eugeo,0,0,0,,Afin de récupérer ce qui m'a été pris——
