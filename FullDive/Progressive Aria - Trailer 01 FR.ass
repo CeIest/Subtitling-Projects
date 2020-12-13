@@ -26,6 +26,7 @@ Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,Édition: Celest / Traduction: Raïto & Vyh / FullDive Team
 Dialogue: 0,0:00:00.20,0:00:03.04,Default,,0,0,0,,{\fad(250,00)}Est-ce... réel ? 
 Dialogue: 0,0:00:04.08,0:00:06.08,Default,,0,0,0,,C’est vraiment un jeu vidéo ? 
 Dialogue: 0,0:00:07.63,0:00:10.42,Default,,0,0,0,,SAO n’est pas un jeu comme les autres. 
